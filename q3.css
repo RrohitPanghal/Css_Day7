@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0px;
+}
+li{
+    display: inline;
+    font-size: 2vw;
+    padding: 0 13px;
+}
+header{
+    background-color: black;
+    color: white;
+    padding: 22px;
+    position: sticky;
+    top: 0;
+}
+.container{
+    min-height: 2222px;
+    background-color: red;
+    position: relative;
+    z-index: 2;
+}

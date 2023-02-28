@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0px;
+}
+li{
+    display: inline;
+    font-size: 4vw;
+}
+header{
+    background-color: black;
+    color: white;
+    padding: 22px;
+}
